@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngoupatrick
-- 👀 I’m interested in python, javascript
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in datascience, python, javascript
+- 🌱 I’m currently learning datascience, python
+- 💞️ I’m looking to collaborate on datascience and python project
 - 📫 How to reach me ...
 
 <!---
